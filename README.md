@@ -1,0 +1,2 @@
+# MyStatsPackage.jl
+Mean
