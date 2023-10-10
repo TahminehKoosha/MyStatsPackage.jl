@@ -1,0 +1,4 @@
+name = "MyStatsPackage"
+uuid = "a99e0126-740f-495a-b40a-389c676f0400"
+authors = ["tahmineh "]
+version = "0.1.0"
